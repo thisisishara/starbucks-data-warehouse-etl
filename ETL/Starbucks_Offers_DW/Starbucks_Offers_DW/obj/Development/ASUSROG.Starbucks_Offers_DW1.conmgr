@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ASUSROG.Starbucks_Offers_DW1"
+  DTS:DTSID="{C42BD666-FF76-4C45-84B3-E631EA90879A}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ASUSROG;Initial Catalog=Starbucks_Offers_DW;Integrated Security=True;Application Name=SSIS-Starbucks_Offers_DW-{C42BD666-FF76-4C45-84B3-E631EA90879A}ASUSROG.Starbucks_Offers_DW1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

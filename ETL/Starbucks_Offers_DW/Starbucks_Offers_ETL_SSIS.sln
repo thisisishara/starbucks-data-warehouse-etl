@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Starbucks_Offers_ETL_SSIS", "Starbucks_Offers_DW\Starbucks_Offers_ETL_SSIS.dtproj", "{6C41A731-0D49-45CA-BE89-DD3DA3DDC282}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{73CE0B44-231B-4603-ADBA-CDC752579068}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Starbucks Data Warehouse Solution\Starbucks ETL Mapping Document.xlsx = D:\Starbucks Data Warehouse Solution\Starbucks ETL Mapping Document.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C41A731-0D49-45CA-BE89-DD3DA3DDC282}.Development|Default.ActiveCfg = Development
+		{6C41A731-0D49-45CA-BE89-DD3DA3DDC282}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9716FF-CDDC-40B7-BCFA-7E0B2622CABC}
+	EndGlobalSection
+EndGlobal
